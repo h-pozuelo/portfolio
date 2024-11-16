@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "Alquiler de Alojamientos",
+    "descripcion": "Proyecto final de máster desarrollado en Blazor Web Assembly (front-end) y ASP.NET Core Web API (back-end). Consiste en un sistema de alquiler de alojamientos en el que los usuarios pueden dar de alta sus propios apartamentos o alquilar los de otros. La aplicación cliente posee autenticación de usuarios mediante JWT (JSON Web Token), implementación de CRUD para la gestión de usuarios/alojamientos, y el uso de servicios externos como Azure Blob Storage (para almacenar las imágenes), Azure Cosmos DB (NoSQL), Azure Key Vault (para el almacenamiento de secretos), entre otros... La aplicación se encuentra lista para ser desplegada en Microsoft Azure.",
+    "url": "",
+    "github": "https://github.com/h-pozuelo/ProyectoFinal/tree/Cristian_Dev"
+  },
+  {
+    "titulo": "Tienda de Videojuegos",
+    "descripcion": "Sitio web desarrollado en Angular 17 (front-end) y ASP.NET Core Web API (back-end). Consiste en una tienda de videojuegos online que recupera datos tanto del back-end propio como de una API externa (SteamSpy). La aplicación cliente posee autenticación de usuarios mediante JWT (JSON Web Token), implementación de CRUD para la gestión de usuarios, y el uso de servicios (para el manejo global de estados) y del almacenamiento local del navegador (carrito), entre otros...",
+    "url": "",
+    "github": "https://github.com/h-pozuelo/VaporProject"
+  }
+]

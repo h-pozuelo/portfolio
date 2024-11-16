@@ -1,0 +1,88 @@
+{
+  "nombre": "Hugo Pozuelo Martínez",
+  "profesion": "Desarrollador Web Full Stack",
+  "sobreMi": "Profesional técnico certificado en AWS, Azure y Power Platform. Con una gran capacidad para el aprendizaje y pasión por crear soluciones innovadoras y eficientes. En busca de una empresa en la que poder incorporarme dentro de un equipo dinámico para contribuir con mis habilidades técnicas y experiencia en desarrollo web.",
+  "correo": "hugopm.empleo@outlook.com",
+  "foto": "hugo-pozuelo-martinez.jpg",
+  "redesSociales": [
+    {
+      "nombre": "LinkedIn",
+      "url": "https://www.linkedin.com/in/hugo-pm/",
+      "icono": "linkedin-logo.svg"
+    },
+    {
+      "nombre": "GitHub",
+      "url": "https://github.com/h-pozuelo",
+      "icono": "github-logo.svg"
+    }
+  ],
+  "tecnologias": [
+    {
+      "nombre": "C#",
+      "tipoTecnologia": "Backend",
+      "icono": "c-sharp-logo.svg"
+    },
+    {
+      "nombre": ".NET Core",
+      "tipoTecnologia": "Backend",
+      "icono": "netcore-logo.svg"
+    },
+    { "nombre": "Java", "tipoTecnologia": "Backend", "icono": "java-logo.svg" },
+    {
+      "nombre": "Python",
+      "tipoTecnologia": "Backend",
+      "icono": "python-logo.svg"
+    },
+    {
+      "nombre": "Django",
+      "tipoTecnologia": "Backend",
+      "icono": "django-logo.svg"
+    },
+    {
+      "nombre": "HTML5",
+      "tipoTecnologia": "Frontend",
+      "icono": "html5-logo.svg"
+    },
+    {
+      "nombre": "CSS3",
+      "tipoTecnologia": "Frontend",
+      "icono": "css3-logo.svg"
+    },
+    {
+      "nombre": "JavaScript",
+      "tipoTecnologia": "Frontend",
+      "icono": "javascript-logo.svg"
+    },
+    {
+      "nombre": "TypeScript",
+      "tipoTecnologia": "Frontend",
+      "icono": "typescript-logo.svg"
+    },
+    {
+      "nombre": "Angular",
+      "tipoTecnologia": "Frontend",
+      "icono": "angular-logo.svg"
+    },
+    {
+      "nombre": "React",
+      "tipoTecnologia": "Frontend",
+      "icono": "react-logo.svg"
+    },
+    { "nombre": "Vue", "tipoTecnologia": "Frontend", "icono": "vue-logo.svg" },
+    {
+      "nombre": "Bootstrap",
+      "tipoTecnologia": "Frontend",
+      "icono": "bootstrap-logo.svg"
+    },
+    {
+      "nombre": "Microsoft Azure",
+      "tipoTecnologia": "Cloud",
+      "icono": "microsoft-azure-logo.svg"
+    },
+    {
+      "nombre": "Amazon Web Services",
+      "tipoTecnologia": "Cloud",
+      "icono": "amazon-web-services-logo.svg"
+    }
+  ]
+}
