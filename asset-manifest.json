@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a8032367.css",
+    "main.js": "/portfolio/static/js/main.e9c6c588.js",
+    "static/media/hugo-pozuelo-martinez.jpg": "/portfolio/static/media/hugo-pozuelo-martinez.bb5826f81e9c924dcfcc.jpg",
+    "static/media/Hugo_Pozuelo_Martinez_-_CV_(Sencillo) (2).pdf": "/portfolio/static/media/Hugo_Pozuelo_Martinez_-_CV_(Sencillo) (2).babdd5dd9612ef43c81c.pdf",
+    "static/media/c-sharp-logo.svg": "/portfolio/static/media/c-sharp-logo.e2c0510d2b743a87e7621b703ba07906.svg",
+    "static/media/amazon-web-services-logo.svg": "/portfolio/static/media/amazon-web-services-logo.d6ba126e1c5cbccb938451f2c03397c9.svg",
+    "static/media/django-logo.svg": "/portfolio/static/media/django-logo.b916c9700f7897dbad255c033b730a44.svg",
+    "static/media/netcore-logo.svg": "/portfolio/static/media/netcore-logo.f94c50c0b48cf488778b7fdaa6c03ff9.svg",
+    "static/media/microsoft-azure-logo.svg": "/portfolio/static/media/microsoft-azure-logo.8fd96b433259a6466dcaba73e17d070f.svg",
+    "static/media/bootstrap-logo.svg": "/portfolio/static/media/bootstrap-logo.3a162f65200426203695ee878e6b62fb.svg",
+    "static/media/typescript-logo.svg": "/portfolio/static/media/typescript-logo.9ad81d2e09b9cd2265cdb1e55d83a709.svg",
+    "static/media/python-logo.svg": "/portfolio/static/media/python-logo.439dd3d27dbba23fa07acb94633c7a7d.svg",
+    "static/media/java-logo.svg": "/portfolio/static/media/java-logo.3c5854fce4aa30ad19d569c45d5ce874.svg",
+    "static/media/linkedin-logo.svg": "/portfolio/static/media/linkedin-logo.e1d3eb6209a3463f9abf85a0328f28e2.svg",
+    "static/media/sent-mail-white.svg": "/portfolio/static/media/sent-mail-white.0c25bc6060d8ec7e920aa015c4770508.svg",
+    "static/media/external-link-white.svg": "/portfolio/static/media/external-link-white.969c509be786eeb092fd033405f80323.svg",
+    "static/media/github-logo.svg": "/portfolio/static/media/github-logo.6fa18895f6e6c7772cab7049f7e05f59.svg",
+    "static/media/github-white-logo.svg": "/portfolio/static/media/github-white-logo.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "static/media/angular-logo.svg": "/portfolio/static/media/angular-logo.703c59a1ae1219cd0fecc1b48e3e18fe.svg",
+    "static/media/external-link.svg": "/portfolio/static/media/external-link.eb94cbee470f12f999745563467be8dd.svg",
+    "static/media/cv-file-white.svg": "/portfolio/static/media/cv-file-white.609d4a8c1cb76603be3733fba6bb7b25.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/javascript-logo.svg": "/portfolio/static/media/javascript-logo.61c1fa6b2ee4eb8ce8d0e0c25ab67854.svg",
+    "static/media/css3-logo.svg": "/portfolio/static/media/css3-logo.16143e6ef760ff1e031d0b4a0d40809f.svg",
+    "static/media/html5-logo.svg": "/portfolio/static/media/html5-logo.6ee805f4d7499612a1c9f682b3f6614d.svg",
+    "static/media/vue-logo.svg": "/portfolio/static/media/vue-logo.f2734e8f080de05923ff07cef3e19b53.svg",
+    "static/media/react-logo.svg": "/portfolio/static/media/react-logo.fff4fd514ba20a042d2cd63734178e6a.svg",
+    "main.a8032367.css.map": "/portfolio/static/css/main.a8032367.css.map",
+    "main.e9c6c588.js.map": "/portfolio/static/js/main.e9c6c588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8032367.css",
+    "static/js/main.e9c6c588.js"
+  ]
+}
