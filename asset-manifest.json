@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a8032367.css",
-    "main.js": "/portfolio/static/js/main.c83d5ddc.js",
+    "main.js": "/portfolio/static/js/main.d60fac11.js",
     "static/media/hugo-pozuelo-martinez.jpg": "/portfolio/static/media/hugo-pozuelo-martinez.bb5826f81e9c924dcfcc.jpg",
-    "static/media/Hugo_Pozuelo_Martinez_-_CV_(Sencillo) (2).pdf": "/portfolio/static/media/Hugo_Pozuelo_Martinez_-_CV_(Sencillo) (2).5d1b70f045f34451263c.pdf",
+    "static/media/Hugo_Pozuelo_Martinez_-_CV (1).pdf": "/portfolio/static/media/Hugo_Pozuelo_Martinez_-_CV (1).b1dde0f66d938a661f5d.pdf",
     "static/media/c-sharp-logo.svg": "/portfolio/static/media/c-sharp-logo.e2c0510d2b743a87e7621b703ba07906.svg",
     "static/media/amazon-web-services-logo.svg": "/portfolio/static/media/amazon-web-services-logo.d6ba126e1c5cbccb938451f2c03397c9.svg",
     "static/media/django-logo.svg": "/portfolio/static/media/django-logo.b916c9700f7897dbad255c033b730a44.svg",
@@ -28,10 +28,10 @@
     "static/media/vue-logo.svg": "/portfolio/static/media/vue-logo.f2734e8f080de05923ff07cef3e19b53.svg",
     "static/media/react-logo.svg": "/portfolio/static/media/react-logo.fff4fd514ba20a042d2cd63734178e6a.svg",
     "main.a8032367.css.map": "/portfolio/static/css/main.a8032367.css.map",
-    "main.c83d5ddc.js.map": "/portfolio/static/js/main.c83d5ddc.js.map"
+    "main.d60fac11.js.map": "/portfolio/static/js/main.d60fac11.js.map"
   },
   "entrypoints": [
     "static/css/main.a8032367.css",
-    "static/js/main.c83d5ddc.js"
+    "static/js/main.d60fac11.js"
   ]
 }
